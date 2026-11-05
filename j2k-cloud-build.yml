@@ -1,4 +1,4 @@
-name: Build J2K Launcher APK
+name:.github/workflows/build.yml
 
 on:
   workflow_dispatch:
